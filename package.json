@@ -7,7 +7,7 @@
     "start": "bash start.sh"
   },
   "dependencies": {
-    "noblox.js": "^4.15.0",
+    "noblox.js": "^6.2.0",
     "node-cron": "^3.0.2"
   }
 }
